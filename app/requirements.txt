@@ -1,0 +1,6 @@
+flask
+Werkzeug==1.0.1
+Flask-SocketIO==2.9.3
+eventlet
+python-engineio==3.9.0
+python-socketio==1.8.4
